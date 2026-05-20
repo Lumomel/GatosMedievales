@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Gatos Medievales
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Luna Moreno Melguizo
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
@@ -32,7 +32,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 20/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](WalkingGirl_front01.png)
+![bunny](bunny.png)
 
 # 2. Memoria del proyecto 
 
