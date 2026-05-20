@@ -16,8 +16,8 @@
 
 ### Enlace a Itch.io: ____________
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
-
+background-color:#ffeaa7
 
 <!-- background color --> 
