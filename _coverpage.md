@@ -6,13 +6,13 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="bunny.png" width="300" height=auto alt="Logotipo"/>
 
 
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Luna Moreno Melguizo
 
 ### Enlace a Itch.io: ____________
 
