@@ -14,10 +14,10 @@
 
 ### Proyecto realizado por: Luna Moreno Melguizo
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io:https://lumomel.itch.io/gatos-medievales
 
 #### Facultad de Bellas Artes. Universidad de Granada, 2026
 
-background-color:#ffeaa7
+background-color:f5f4ca
 
 <!-- background color --> 
