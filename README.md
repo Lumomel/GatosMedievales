@@ -24,7 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 <img width="239" height="314" alt="Bunny head" src="https://github.com/user-attachments/assets/08df1415-6752-4b1f-9eed-9756373347b2" />
 
-**Resolución:**1200x800 px. Tamaño fijo.
+**Resolución:** 1200 x 800 px. Tamaño fijo.
 **Probado en:**   Google Chrome
 
 **Tamaño proyecto:** 46MB 
@@ -48,14 +48,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 Comencé con el diseño de todos los personajes en digital, inpirada en las antiguas y peculiares representaciones medievales de Gatos. Posteriormente realicé los Storyboards con la historia que quería contar.
 
+<img width="300" height="500" alt="800111ab-9691-43c0-adae-2044ee9a245c" src="https://github.com/user-attachments/assets/926e2d29-79a1-4e73-93f5-cd2b8f61c551" />
+
+
+
 
 
 
 ### 2.2. Esquema de navegación 
+La mayoría de la navegación es mediante botones, siendo este el único mapa por el que se puede caminar para elegir el nivel.
+<img width="500" height="700" alt="Mapa" src="https://github.com/user-attachments/assets/0761aeb8-9e0b-42c4-b6eb-e9c7d2c439ff" />
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -65,7 +68,7 @@ Comencé con el diseño de todos los personajes en digital, inpirada en las anti
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Juego de historia lineal y Navegación por niveles, un solo final. 
 
 
 
@@ -80,13 +83,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+En este proyecto busco entretener mediante el juego de la manera mas pura. Me inspiro en la representación de los animales en el arte medieval. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todas las edades.
 
 
 
@@ -94,29 +97,23 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- _Juego:_ Tres niveles y un último nivel con un quizz para completar el juego. A pesar de poder jugarse en cualquier orden mediante la selección en el mapa, cada nivel ayuda a la narración y construcción del mundo.
+- _Video:_ Tanto el inicio como el final son animaciones en el propio godot. Tras completar el nivel uno, aparece una animación con información extra antes de regresar al mapa. Esta animación esta realizada a mano fuera de godot y exportada como video.
+- _Instrucciones y ayuda al usuario:_ Aparece en forma de diálogo dinámico con los personajes para no sacar al jugador de la experiencia, pero todos los controles son muy intuitivos.
+- _Menús y elementos de navegación:_ Dibujados a mano, los botones son o peces señalando a donde or o una cama para gatos que muestra como regresar al menú. Son botones dinámicos, que cambian de apariencia al pasar el ratón por encima. 
+- _Música:_ Reproductor interactivo para ajustarlo a tu gusto.
 
 
 
 ## Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+Podria haber mejorado la interacción con el mapa y pulido algunos botones o escenas. Además me gustaria haber añadido más opciones de música.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+Estoy bastante contenta con el resultado final. 
+Siento que he aprendido mucho con este primer proyecto y que, a pesar de las dificultadoes ha quedado un proyecto bastante decente. Continuaré trabajando este medio y mejorando mis habilidades
 
 
 
