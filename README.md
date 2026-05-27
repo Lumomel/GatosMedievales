@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Gatos Medievales
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -46,10 +46,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-Comencé con el diseño de todos los personajes en digital, inpirada en las antiguas y peculiares representaciones medievales de Gatos. Posteriormente realicé los Storyboards con la historia que quería contar.
+Comencé con el diseño de todos los personajes en digital, inpirada en las antiguas y peculiares representaciones medievales de Gatos. Posteriormente realicé los Storyboards con la historia que quería contar. Posteriormente diseñé los fondos, botones, etc.
 
-<img width="300" height="500" alt="800111ab-9691-43c0-adae-2044ee9a245c" src="https://github.com/user-attachments/assets/926e2d29-79a1-4e73-93f5-cd2b8f61c551" />
 
+<img width="300" height="500" alt="800111ab-9691-43c0-adae-2044ee9a245c" src="https://github.com/user-attachments/assets/926e2d29-79a1-4e73-93f5-cd2b8f61c551" /><img width="500" height="350" alt="Fondo bodega" src="https://github.com/user-attachments/assets/1dec8e49-1c70-4e3a-865b-27f7cbed0ee7" />
+
+<img width="500" height="350" alt="Ilustración_sin_título" src="https://github.com/user-attachments/assets/e79a3728-0d9b-49a2-aadb-98ca1bd370fc" />
+<img width="500" height="300" alt="home 2" src="https://github.com/user-attachments/assets/67917015-81c5-4bbd-a12b-ef6297d58470" />
 
 
 
@@ -122,23 +125,24 @@ Siento que he aprendido mucho con este primer proyecto y que, a pesar de las dif
 **Artículos y blogs** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- https://forum.godotengine.org
+- WARREN, C. (2026) *Game Development With Godot 4 for Beginners: Turn Your Game Ideas Into Playable 2D and 3D Projects with GDScript and Practical Techniques* https://books.google.es/books?id=TFfi0QEACAAJ&dq=Game+Development+With+Godot+4+for+Beginners&hl=&cd=1&source=gbs_api
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: MEGALOVANIA - Undertale - Toby Fox - Bardcore: https://www.youtube.com/watch?v=HSYKJtotEkg&list=RDHSYKJtotEkg&start_radio=1
+          All Star-Smash Mouth-Bardcore: https://www.youtube.com/watch?v=I5TB9DT6s-E&list=RDI5TB9DT6s-E&start_radio=1
+* Imágenes: Dibujado a mano. 
+* Tipografía: *Old London* Dieter Steffmann - https://www.dafont.com/es/old-london.font
 
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+- Reaper
+- Procreate
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
-
-* logos en https://creativecommons.org/mission/downloads/
+https://creativecommons.org/publicdomain/zero/1.0/
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
