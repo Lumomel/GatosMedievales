@@ -18,6 +18,6 @@
 
 #### Facultad de Bellas Artes. Universidad de Granada, 2026
 
-background-color:f5f4ca
 
-<!-- background color --> 
+
+<!-- background-color: #f5f4ca --> 
