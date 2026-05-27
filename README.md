@@ -10,11 +10,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Gatos Medievales
 
-**Web:**   [(https://lumomel.itch.io/gatos-medievales)]
+**Web:**   https://lumomel.itch.io/gatos-medievales
 
 **Autor:**  Luna Moreno Melguizo
-
- [Profile Card](cmi-card.html) 
 
 **Resumen** : En este proyecto entras en la piel de un conejo caballero que es atrapado en el reino de los gatos. Escapa del castillo encontrando trs peces para el rey.
 
