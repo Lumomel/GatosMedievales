@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Luna Moreno Melguizo
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
+ [Profile Card](cmi-card.html) 
 
 **Resumen** : En este proyecto entras en la piel de un conejo caballero que es atrapado en el reino de los gatos. Escapa del castillo encontrando trs peces para el rey.
 
