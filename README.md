@@ -10,46 +10,44 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Gatos Medievales
 
-**Web:**   (url github.io)
+**Web:**   [(https://lumomel.itch.io/gatos-medievales)]
 
 **Autor:**  Luna Moreno Melguizo
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En este proyecto entras en la piel de un conejo caballero que es atrapado en el reino de los gatos. Escapa del castillo encontrando trs peces para el rey.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+<img width="239" height="314" alt="Bunny head" src="https://github.com/user-attachments/assets/08df1415-6752-4b1f-9eed-9756373347b2" />
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:**1200x800 px. Tamaño fijo.
+**Probado en:**   Google Chrome
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 46MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 20/05/2026
+**Fecha** : 28/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: [(https://github.com/Lumomel/GatosMedievales)]
+  
+- Instagram:[(https://www.instagram.com/lum0mel)]
 
 
-![bunny](bunny.png)
+<img width="8912" height="6301" alt="uck bunny" src="https://github.com/user-attachments/assets/a1fbe453-4a22-465b-b38a-02eca72d0660" />
+
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Comencé con el diseño de todos los personajes en digital, inpirada en las antiguas y peculiares representaciones medievales de Gatos. Posteriormente realicé los Storyboards con la historia que quería contar.
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
