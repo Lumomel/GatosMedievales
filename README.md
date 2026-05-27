@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Gatos Medievales
 
-**Web:**   https://lumomel.itch.io/gatos-medievales
+**Web:** https://lumomel.itch.io/gatos-medievales](https://lumomel.github.io/GatosMedievales
 
 **Autor:**  Luna Moreno Melguizo
 
