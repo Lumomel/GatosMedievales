@@ -101,7 +101,7 @@ En este proyecto busco entretener mediante el juego de la manera mas pura. Me in
 - _Juego:_ Tres niveles y un último nivel con un quizz para completar el juego. A pesar de poder jugarse en cualquier orden mediante la selección en el mapa, cada nivel ayuda a la narración y construcción del mundo.
 - _Video:_ Tanto el inicio como el final son animaciones en el propio godot. Tras completar el nivel uno, aparece una animación con información extra antes de regresar al mapa. Esta animación esta realizada a mano fuera de godot y exportada como video.
 - _Instrucciones y ayuda al usuario:_ Aparece en forma de diálogo dinámico con los personajes para no sacar al jugador de la experiencia, pero todos los controles son muy intuitivos.
-- _Menús y elementos de navegación:_ Dibujados a mano, los botones son o peces señalando a donde or o una cama para gatos que muestra como regresar al menú. Son botones dinámicos, que cambian de apariencia al pasar el ratón por encima. 
+- _Menús y elementos de navegación:_ Dibujados a mano, los botones son o peces señalando a donde ir o una cama para gatos que muestra como regresar al menú. Son botones dinámicos, que cambian de apariencia al pasar el ratón por encima. 
 - _Música:_ Reproductor interactivo para ajustarlo a tu gusto.
 
 
